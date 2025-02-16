@@ -1,2 +1,2 @@
 # 1-Repo
-This Is my First GitHub Repository.<br> Aother - Buddhbhudhan Gaikead
+This Is my First GitHub Repository.<br> Author - Buddhbhudhan Gaikead
